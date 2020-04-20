@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="icon_bg_height">108dp</dimen>
+    <dimen name="icon_bg_width">305dp</dimen>
+    <dimen name="icon_size_height">43.5dp</dimen>
+    <dimen name="icon_size_width">144dp</dimen>
+    <dimen name="margin_xl">24dp</dimen>
+    <dimen name="margin_l">16dp</dimen>
+    <dimen name="margin_m">8dp</dimen>
+    <dimen name="margin_top_size">180dp</dimen>
+</resources>

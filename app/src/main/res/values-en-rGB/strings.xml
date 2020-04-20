@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TikTok</string>
+    <string name="update_dialog_title_app_update">Application Update</string>
+    <string name="update_dialog_content_tip">The app needs to be updated before it can be used. Do you want to go to google play store update immediately?</string>
+    <string name="update_dialog_btn_cancel">Cancel</string>
+    <string name="update_dialog_btn_sure">Update Now</string>
+    <string name="update_dialog_content_app_detail">Detail</string>
+    <string name="update_dialog_content_value" translatable="false">
+TikTok is a popular original short video sharing platform in China. \n
+1. First music filter, new video originality; \n
+2. Original music, express yourself; \n
+3. Ultra-clear image quality, a new visual experience.</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">抖音短视频</string>
+    <string name="update_dialog_title_app_update">应用更新</string>
+    <string name="update_dialog_content_tip">该应用需要更新后才能使用。是否立即前往应用市场更新？</string>
+    <string name="update_dialog_btn_cancel">取消</string>
+    <string name="update_dialog_btn_sure">立即更新</string>
+    <string name="update_dialog_content_app_detail">详情</string>
+    <string name="update_dialog_content_value" translatable="false">
+抖音短视频是中国广受欢迎的原创短视频分享平台。\n
+1.首创音乐滤镜，视频新创意；\n
+2.原创音乐，表达自我；\n
+3.超清画质，全新视觉体验。</string>
+</resources>
